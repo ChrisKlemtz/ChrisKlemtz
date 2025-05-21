@@ -58,7 +58,9 @@ When I’m not debugging:
 ## 🤝 **Let’s Collaborate!**  
 
 🔗 **Connect with me:**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-klemtz-8558b8349/)
+
 📧 **Email:** [dev.christophklemtz@outlook.com](mailto:dev.christophklemtz@outlook.com)
 
 --- 
