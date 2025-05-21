@@ -59,7 +59,7 @@ When I’m not debugging:
 
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [dev.christophklemtz@outlook.com](mailto:dev.christophklemtz@outlook.com)  
 
 --- 
 
