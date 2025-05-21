@@ -49,17 +49,17 @@ When I'm not coding, you'll find me crafting digital art or exploring virtual wo
 ## 🎨 **Beyond Code**  
 
 When I’m not debugging:  
-- Designing logos & interfaces in **Figma/Canva** 🖥️  
+- Designing logos, artwork & interfaces in **Figma/Canva/GIMP/BlockBench/etc** 🖥️  
 - Sculpting or painting (traditional & digital) 🎭  
-- Gaming (**CS2, Witcher, Cyberpunk 2077**) 🎮  
+- Gaming (**Minecraft, RL, Cyberpunk 2077**) 🎮  
 
 ---
 
 ## 🤝 **Let’s Collaborate!**  
 
 🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-📧 **Email:** [dev.christophklemtz@outlook.com](mailto:dev.christophklemtz@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/christoph-klemtz-8558b8349/))  
+📧 **Email:** [dev.christophklemtz@outlook.com](mailto:dev.christophklemtz@outlook.com)
 
 --- 
 
