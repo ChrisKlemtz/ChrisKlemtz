@@ -8,7 +8,7 @@ When I'm not coding, you'll find me crafting digital art or exploring virtual wo
 
 ## 🚀 **About Me**  
 
-💻 **Full-Stack Dev** | 🌍 **Fluent in 🇩🇪 & 🇬🇧**  
+💻 **Full-Stack Dev** | 🌍 **Fluent in 🇩🇪**  
 📍 **Based in Stralsund, Germany** | 🐕 **Dog Dad** | 🎮 **Gaming Enthusiast**  
 
 🎓 **DCI Graduate** (Fullstack Development) | **Skills:**  
