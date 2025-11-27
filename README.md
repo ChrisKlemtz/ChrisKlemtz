@@ -37,30 +37,33 @@ When I'm not coding, you'll find me crafting digital art or exploring virtual wo
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/000000/shopify.png" alt="Shopify" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" />
   
   <!-- Backend -->
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
   
-  <!-- Tools -->
+  <!-- Tools & Frameworks -->
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" />
+  <img src="https://phaser.io/images/img.png" width="48" height="48" alt="Phaser.js" />
 </p>
 
 ---
 
 ## 🎨 **Beyond Code**  
 
-When I’m not debugging:  
+When I'm not debugging:  
 - Designing logos, artwork & interfaces in **Figma/Canva/GIMP/BlockBench/etc** 🖥️  
 - Sculpting or painting (traditional & digital) 🎭  
 - Gaming (**Minecraft, RL, Cyberpunk 2077**) 🎮  
 
 ---
 
-## 🤝 **Let’s Collaborate!**  
+## 🤝 **Let's Collaborate!**  
 
 🔗 **Connect with me:**  
 
@@ -70,4 +73,4 @@ When I’m not debugging:
 
 --- 
 
-**Thanks for visiting — let’s build something awesome together!** 🚀  
+**Thanks for visiting — let's build something awesome together!** 🚀
