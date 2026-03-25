@@ -1,7 +1,9 @@
 # 👋 Hello there! 
+
 **Welcome to my GitHub universe!**  
 I'm **Chris**, a passionate **Full-Stack Developer** with a love for clean code, creative problem-solving, and building things that matter.  
 When I'm not coding, you'll find me crafting digital art or exploring virtual worlds!  
+
 ---
 ## 🚀 **About Me**  
 💻 **Full-Stack Dev** | 🌍 **Fluent in 🇩🇪**  
@@ -10,6 +12,7 @@ When I'm not coding, you'll find me crafting digital art or exploring virtual wo
 - **Frontend:** React, Next.js, TypeScript, Tailwind  
 - **Backend:** Node.js, Express, MongoDB, MySQL  
 - **Tools:** Vite, Redux, Figma, Shopify  
+- **CRO & Testing:** ABlyft, Tampermonkey, ClickUp, A/B Testing  
 **Hobbies & Creative Side:**  
 🎨 **Digital Design** | 🖌️ **Art & Sculpturing** | 🎮 **Gaming (FPS & RPGs)**  
 ---
@@ -41,8 +44,15 @@ When I'm not coding, you'll find me crafting digital art or exploring virtual wo
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" />
   <img src="https://phaser.io/images/img.png" width="48" height="48" alt="Phaser.js" />
+
+  <!-- CRO & Testing -->
+  <img src="https://img.icons8.com/color/48/000000/clickup.png" alt="ClickUp" />
+  <img src="https://cdn.simpleicons.org/tampermonkey/00485B" width="48" height="48" alt="Tampermonkey" />
+  <img src="https://img.shields.io/badge/ABlyft-FF6B35?style=flat-square&logoColor=white" height="32" alt="ABlyft" />
 </p>
+
 ---
+
 ## 🎨 **Beyond Code**  
 When I'm not debugging:  
 - Designing logos, artwork & interfaces in **Figma/Canva/GIMP/BlockBench/etc** 🖥️  
